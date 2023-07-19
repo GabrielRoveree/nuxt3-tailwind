@@ -1,5 +1,7 @@
 <template>
-  <Exercicios />
+  <!-- <Exercicios /> -->
+
+  <FlexboxFlexBox />
 </template>
 
 <script setup>
