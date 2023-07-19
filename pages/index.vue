@@ -1,5 +1,5 @@
 <template>
-  <ComponentTest />
+  <Exercicios />
 </template>
 
 <script setup>
